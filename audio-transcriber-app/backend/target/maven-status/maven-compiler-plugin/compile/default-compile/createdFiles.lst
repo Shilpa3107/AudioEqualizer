@@ -1,0 +1,4 @@
+com\prepxl\audio\service\TranscriptionService.class
+com\prepxl\audio\config\WebSocketConfig.class
+com\prepxl\audio\AudioTranscriberApplication.class
+com\prepxl\audio\handler\AudioWebSocketHandler.class
