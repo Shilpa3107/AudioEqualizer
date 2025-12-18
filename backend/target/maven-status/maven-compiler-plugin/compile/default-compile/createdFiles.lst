@@ -1,5 +1,0 @@
-com\prepxl\streaming\config\ReactiveWebSocketConfig.class
-com\prepxl\streaming\service\GeminiService.class
-com\prepxl\streaming\service\MockGeminiService.class
-com\prepxl\streaming\StreamingApplication.class
-com\prepxl\streaming\handler\TranscriptionHandler.class
